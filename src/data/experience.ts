@@ -2,12 +2,12 @@ import { ExperienceItem } from "@/types";
 
 export const experienceData: ExperienceItem[] = [
   {
-    date: "Jun 2025 - Jan 2026",
+    date: "Jun 2026 - Dec 2026",
     title: "MERN Stack Development Training",
     company: "Programming Hero",
     type: "Certification",
     details:
-      "Deep dive into full-stack JavaScript architecture: building RESTful APIs with Node.js & Express, database modelling with MongoDB, and reactive user interfaces with React and Tailwind CSS.",
+      "Deep dive into full-stack JavaScript architecture: building RESTful APIs with Node.js & Express, database modelling with MongoDB, and reactive user interfaces with React, Nextjs and Tailwind CSS.",
     status: "Completed",
   },
   {

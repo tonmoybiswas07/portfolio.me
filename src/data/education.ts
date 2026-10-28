@@ -3,6 +3,17 @@ import { EducationItem } from "@/types";
 export const educationData: EducationItem[] = [
   {
     number: "01",
+    title: "B.SC In Engineering (CSE)",
+    institution: "Bangladesh Army University of Science and Technology",
+    duration: "2026 – 2030",
+    description:
+      "BSC in Engineering in Computer Science and Engineering, focused on core software development principles, data structures, algorithms, AI/ML, and web application architecture.",
+    gpa: "CGPA: Pending",
+    stream: "Major: Computer Science & Engineering",
+    subjects: ["Data Structures", "Algorithms", "UI/UX Design", "Python", "Java","C","C++","AI/ML", "Web Technologies"],
+  },
+  {
+    number: "02",
     title: "Diploma In Engineering (CST)",
     institution: "Institute Of Engineering And Technology",
     duration: "2021 – 2025",
@@ -13,7 +24,7 @@ export const educationData: EducationItem[] = [
     subjects: ["Data Structures", "Algorithms", "UI/UX Design", "Python", "Java", "Web Technologies"],
   },
   {
-    number: "02",
+    number: "03",
     title: "Secondary School Certificate (SSC)",
     institution: "Ulipur M.S. School & College",
     duration: "2019 – 2021",
